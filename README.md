@@ -30,7 +30,6 @@ Next there is a function called deriv wich can be called by `f1.deriv({x})`.
 This function requires a value or a numpy array of x values. This function return the derivative.
 You can also plot the derivative function with `f1.plot_deriv({x_min},{x_max})`.
 The x_min and x_max specifyies what area of the graph is wanted.
-Last but not least is `deriv = f1.deriv_function()` produces a new MFunction that is the derivative of the first function.
 
 Thanks for reading this!
 
